@@ -1,0 +1,23 @@
+Fecha de Publicación: 04/12/2024
+
+CVE ID: CVE-2024-51465
+
+Nivel de Severidad: Alto
+
+
+
+Sistemas Afectados
+
+App Connect Enterprise Certified Container (11.4, 11.5, 11.6, 12.0, 12.1, 12.2, 12.3)
+
+Estado: Parche Disponible
+
+ 
+
+Descripción
+
+ Se ha identificado una vulnerabilidad en la App Connect Enterprise Certified Container podría permitir a un atacante remoto autenticado ejecutar comandos arbitrarios en el sistema enviando una solicitud especialmente diseñada.
+
+Impacto
+
+·       Ejecución de código arbitrario
